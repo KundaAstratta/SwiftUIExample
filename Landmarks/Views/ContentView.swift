@@ -33,7 +33,7 @@ struct ContentView: View {
                 }
                 .tag(Tab.list)
         
-            HikeView (hike: ModelData().hikes[0])
+            HikeView (hike: ModelData().hikes[1])
                 .tabItem {
                     Label("Hike", systemImage: "person.crop.circle")
                 }

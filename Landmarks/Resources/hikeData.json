@@ -190,8 +190,8 @@
     {
         "name":"Lonesome Ridge Trail",
         "id":1002,
-        "distance":4.5,
-        "difficulty":3,
+        "distance":5.5,
+        "difficulty":4,
         "observations":[
             {
                 "elevation":[
